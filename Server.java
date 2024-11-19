@@ -1,3 +1,8 @@
+/*
+ * Author: Andreas Sotiras
+ * 11/09/24
+ * Server for message and client handling.
+ */
 import java.io.*;
 import java.net.*;
 import java.util.ArrayList;

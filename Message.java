@@ -1,3 +1,8 @@
+/*
+ * Author: Andreas Sotiras
+ * 11/09/24
+ * Message class with all constructors.
+ */
 import java.io.Serializable;
 
 public class Message implements Serializable {

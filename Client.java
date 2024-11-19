@@ -1,3 +1,8 @@
+/*
+ * Author: Andreas Sotiras
+ * 11/09/24
+ * Clientside application.
+ */
 import java.io.*;
 import java.net.*;
 import java.util.Scanner;
